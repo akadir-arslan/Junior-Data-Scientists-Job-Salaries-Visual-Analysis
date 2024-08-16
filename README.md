@@ -45,3 +45,7 @@ The primary goal of this project is to understand:
 - plotly
 - altair
 - geopandas
+
+  ## How to Run
+
+To run the analysis, you need to download the dataset from the source mentioned above. Simply execute the code cells in the Jupyter Notebook in the order they appear, and you will be able to reproduce the analysis and visualizations. However, I did not provide the dataset in the repository!
