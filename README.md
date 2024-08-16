@@ -1,4 +1,4 @@
-# Remote Job Market Analysis for Junior Data Scientist
+# Remote Job Market Analysis for Junior Data Scientists
 
 ## Overview
 
